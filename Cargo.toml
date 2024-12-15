@@ -18,3 +18,5 @@ exclude = [
 ]
 
 [dependencies]
+anyhow = "1.0.94"
+lettre = "0.11.10"
